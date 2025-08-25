@@ -1,1 +1,1 @@
-Prctising Git and Github
+Practising Git and Github
